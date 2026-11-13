@@ -13,19 +13,19 @@ CS261,4,['CS152'],[],[],unknown,,[],2
 CS262,4,['CS152'],[],['Spring'],annual,['MWF 10:20-11:20'],[],2
 CS263,4,['CS152'],[],[],unknown,,[],2
 CS276,4,['CS152'],[],['Fall'],unknown,,[],2
-CHEM115,4,[],['CHEM115Y'],['Fall'],annual,,[],3
-CHEM115Y,4,[],['CHEM115'],['Fall'],annual,,[],3
-CHEM116,4,['CHEM115'],['CHEM116Y'],['Spring'],annual,"['MWF 8:00-9:00', 'MWF 9:10-10:10', 'MWF 12:00-13:00']",[],3
-CHEM116Y,4,['CHEM116'],['CHEM116'],['Spring'],annual,"['T 8:00-11:00', 'T 13:10-16:10']",[],3
-PHYS221,4,"[['MATH150', 'MATH152', 'MATH249']]",[],['Fall'],annual,,[],3
-PHYS221Y,4,['PHYS221'],[],['Fall'],annual,,[],3
-PHYS222,4,"[['MATH152', 'MATH249']]",[],['Spring'],annual,['MWF 10:20-11:20'],[],3
-PHYS222Y,4,['PHYS222'],[],['Spring'],annual,"['T 8:00-11:00', 'Th 13:10-16:10']",[],3
-MATH150,4,[],[],['Fall'],annual,,[],4
-MATH152,4,['MATH150'],[],"['Fall', 'Spring']",annual,['MWF 13:10-14:10'],[],4
-MATH249,4,['MATH152'],[],"['Fall', 'Spring']",annual,['MWF 13:10-14:40'],[],4
-MATH256,4,['MATH249'],[],"['Fall', 'Spring']",annual,['MW 13:10-14:40'],[],4
-MATH280,4,"[['MATH150', 'MATH151', 'MATH152', 'MATH249']]",[],"['Fall', 'Spring']",annual,['MW 10:20-11:50'],[],4
-STAT341,4,['MATH152'],[],['Fall'],annual,,[],4
-MATH345,4,"[['MATH249'], ['MATH251W']]",[],['Fall'],odd-numbered years,,[],4
-MATH352,4,['MATH251W'],[],"['Fall', 'Spring']",annual,['TTh 13:10-15:10'],[],4
+CHEM115,4,[],['CHEM115Y'],['Fall'],annual,,[],2
+CHEM115Y,4,[],['CHEM115'],['Fall'],annual,,[],2
+CHEM116,4,['CHEM115'],['CHEM116Y'],['Spring'],annual,"['MWF 8:00-9:00', 'MWF 9:10-10:10', 'MWF 12:00-13:00']",[],2
+CHEM116Y,4,['CHEM116'],['CHEM116'],['Spring'],annual,"['T 8:00-11:00', 'T 13:10-16:10']",[],2
+PHYS221,4,"[['MATH150', 'MATH152', 'MATH249']]",['PHYS221Y'],['Fall'],annual,,[],2
+PHYS221Y,4,[],['PHYS221'],['Fall'],annual,,[],2
+PHYS222,4,"[['MATH152', 'MATH249']]",[],['Spring'],annual,['MWF 10:20-11:20'],[],2
+PHYS222Y,4,['PHYS222'],[],['Spring'],annual,"['T 8:00-11:00', 'Th 13:10-16:10']",[],2
+MATH150,4,[],[],['Fall'],annual,,[],2
+MATH152,4,['MATH150'],[],"['Fall', 'Spring']",annual,['MWF 13:10-14:10'],[],2
+MATH249,4,['MATH152'],[],"['Fall', 'Spring']",annual,['MWF 13:10-14:40'],[],2
+MATH256,4,['MATH249'],[],"['Fall', 'Spring']",annual,['MW 13:10-14:40'],[],2
+MATH280,4,"[['MATH150', 'MATH151', 'MATH152', 'MATH249']]",[],"['Fall', 'Spring']",annual,['MW 10:20-11:50'],[],2
+STAT341,4,['MATH152'],[],['Fall'],annual,,[],2
+MATH345,4,"[['MATH249'], ['MATH251W']]",[],['Fall'],odd-numbered years,,[],2
+MATH352,4,['MATH251W'],[],"['Fall', 'Spring']",annual,['TTh 13:10-15:10'],[],2
